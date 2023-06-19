@@ -17,8 +17,8 @@
     "morgan": "~1.9.1"
   },
   "projectConfig": {
-    "mongoConnectionUrl": "<put the mongodb connection string here>",
-    "serverIp": "<put the server ip address here (string)>",
-    "serverPort": "<put the server port number here (integer)>"
+    "mongoConnectionUrl": "mongodb://127.0.0.1:27017",
+    "serverIp": "127.0.0.1",
+    "serverPort": 3000
   }
 }
